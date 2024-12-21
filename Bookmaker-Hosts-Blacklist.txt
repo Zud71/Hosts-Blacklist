@@ -261,3 +261,8 @@
 0.0.0.0 www.mbafibeam.xyz
 0.0.0.0 sxulwkz.top
 0.0.0.0 vyn4t0r.services
+0.0.0.0 go.1good.xyz
+0.0.0.0 s.betcitypromo.ru
+0.0.0.0 mobile.bittoonn.xyz
+0.0.0.0 z8.google.b0nd.xyz
+0.0.0.0 official.site.z0nd.xyz
