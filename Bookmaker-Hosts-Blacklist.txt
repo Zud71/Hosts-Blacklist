@@ -238,3 +238,11 @@
 0.0.0.0 www.fon.bet
 0.0.0.0 www.pari.ru
 0.0.0.0 www.golden-bet.bet
+0.0.0.0 m.winline.ru
+0.0.0.0 winline.by
+0.0.0.0 stavka.tv
+0.0.0.0 stavkinasport.com
+0.0.0.0 sport-booking.ru
+0.0.0.0 kushvsporte.ru
+0.0.0.0 promote.betcity.ru
+0.0.0.0 bookmaker-ratings.ru
